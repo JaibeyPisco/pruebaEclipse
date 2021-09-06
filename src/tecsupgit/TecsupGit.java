@@ -5,7 +5,8 @@ public class TecsupGit {
 		System.out.println("Hola estudiantes");
 		String estudiante = "Jaibey Pisco";
 		System.out.println(estudiante);
+		System.out.println("Hola como estás")
 	}
-	
+
 
 }
